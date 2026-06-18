@@ -1,9 +1,9 @@
-﻿{
+{
     "name":  "aidev-plugin-starter",
     "version":  "1.0.0",
     "private":  true,
     "devDependencies":  {
-                            "@playwright/test":  "^1.55.0",
+                            "@playwright/test":  "^1.61.0",
                             "@semantic-release/changelog":  "^6.0.0",
                             "@semantic-release/commit-analyzer":  "^13.0.0",
                             "@semantic-release/exec":  "^7.1.0",
@@ -11,7 +11,7 @@
                             "@semantic-release/github":  "^11.0.5",
                             "@semantic-release/release-notes-generator":  "^14.0.0",
                             "@wordpress/env":  "^10.30.0",
-                            "semantic-release":  "^24.0.0",
+                            "semantic-release":  "^25.0.5",
                             "wait-on":  "^8.0.0"
                         },
     "scripts":  {
